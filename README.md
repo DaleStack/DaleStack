@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaleStack
 - 🌱 I’m currently learning Django/Python
 - 📫 How to reach me daledev07@gmail.com
-- First year Computer Science Student
+- Second year Computer Science Student
 
 
 
