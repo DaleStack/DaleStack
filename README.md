@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaleStack
 - 🌱 I’m currently learning Django/Python
-- Also just started learning Go 
+- Also just started learning Golang
 - 📫 How to reach me daledev07@gmail.com
 - Second year Computer Science Student
 
