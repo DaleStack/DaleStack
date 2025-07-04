@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaleStack
-- 🌱 I’m currently learning Python/Backend
+- 🌱 I’m currently learning Django/Python/Backend
 - Also just started learning Go
 - 📫 How to reach me daledev07@gmail.com
 - Second year Computer Science Student
