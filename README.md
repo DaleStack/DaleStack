@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning Go/Python/Backend
 - 📫 How to reach me daledev07@gmail.com
 - Second year Computer Science Student
-- Philippines
 
 
 
