@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DaleStack
 - 🌱 I’m currently learning Go/Python/Backend
-- Interested with AI Engineering
+- 🤖 Interested with AI Engineering
 - 📫 How to reach me daledev07@gmail.com
-- Second year Computer Science Student
+- 👨🏼‍🎓 Second year Computer Science Student
 
 
 
