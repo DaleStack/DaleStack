@@ -4,8 +4,7 @@
 - 🛠️ Into building Libraries/Framework
 - 📫 How to reach me daledev07@gmail.com
 - 👨🏼‍🎓 Second year Computer Science Student
-
-- 
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/casey.dale.165/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/casey-dale-siatong-856710369/) 
